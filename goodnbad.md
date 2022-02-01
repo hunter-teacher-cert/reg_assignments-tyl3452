@@ -4,7 +4,7 @@ Eric Liu
   - Why do you think it didn't go well?
   - What would you do (have you done) to make it better?
 
-An instance where I it went poorly was when I was going over binary search more in-depth a few years ago than I normally would have after going over linear search with the class. Linear search is generally easier for students to understand. Now, students are keeping track of multiple variables and going through data and the indices and mistaking them which is a common misconception. Students understand the logic and with animation, but translating that into code is a huge leap. I didn't setup the students correctly. I types into a doc to keep track of the indices and values and the target, but I should have done it by hand. Allow more time, to let students absorb the algorithm in class, have groups discussions and planning stages, then another day or two to implement and test their algorithm.
+An instance where I it went poorly was when I was going over binary search more in-depth a few years ago than I normally would have after going over linear search with the class. Linear search is generally easier for students to understand. Now, students are keeping track of multiple variables and going through data and the indices and mistaking them which is a common misconception. Students understand the logic and with animation, but translating that into code is a huge leap. I didn't setup the students correctly. I typed into a doc during each iteration to keep track of the indices and values and the target with an animation, but I should have done it by hand. Allow more time, to let students absorb the algorithm in class, have groups discussions and planning stages, then another day or two to implement and test their algorithm.
 
 
 
