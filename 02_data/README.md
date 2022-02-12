@@ -1,5 +1,7 @@
 Data Lesson Plan
 
+Objective: Gather and investigate a dataset
+
 Files:
 - names.zip - Compressed folder of names of children from the Social Security. Insider the names zip file, there are individual files for each year.
   - i.e. yob1880 contains a list of names and the frequency of children with that name and separated by gender int he year 1880.
