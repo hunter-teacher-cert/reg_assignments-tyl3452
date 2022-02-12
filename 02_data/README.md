@@ -13,13 +13,16 @@ Files:
   - Decompress the names.zip file
 
 - Find data
+  - Open up the data in an text editor (or in a spreadsheet application)
   - Pick a year you want to search. If you have a child, search for your child's year of birth. You can also search your own year of birth or anybody else.
   - Search (you may use CTRL+F) for the name.
   - Search for the name a second time to see if the name shows up for children that were assigned another gender at birth.
 
 - Analyze data
+  - In a spreadsheet, create a new tab at the bottom, in that tab... 
   - Write two statements that you can glean from the data.
   - (Optional, if there is time) Chart the data. One way is to chart the popularity of some names over time.
     - Choose a top name in a specific year, such as Mary in 1880, and gather data for Mary in all subsequent years. 
     - Can do this for just a 10 year period if you're doing it manually.
     - Otherwise, a progam to open and search for each file would be useful.
+    - Upload spreadsheet and/or python program if applicable as well.
