@@ -4,7 +4,7 @@ Objective: Gather and investigate a dataset
 
 Files:
 - names.zip - Compressed folder of names of children from the Social Security. Insider the names zip file, there are individual files for each year.
-  - i.e. yob1880 contains a list of names and the frequency of children with that name and separated by gender int he year 1880.
+  - i.e. yob1880 contains a list of names and the frequency of children with that name and separated by gender in the year 1880.
   - Inside the file...  Mary,F,7065...  would indicate that there are 7065 female assigned gender children named Mary born in 1880. If you search for Mary in the same file,
   - you'll find... Mary,M,27 ... which would indicate 27 male assigned gender at birth named Mary born in 1880.
 
